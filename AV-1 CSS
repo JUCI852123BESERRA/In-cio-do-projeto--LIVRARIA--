@@ -1,0 +1,116 @@
+h4{
+     font-size: 60px;
+     font-style: normal;
+     text-decoration: darkred;
+     color: rgb(51, 39, 83);
+     font-family: 'Times New Roman', Times, serif;
+}
+h1{ 
+
+        font-size: 100px;
+        font-style: normal;
+        text-decoration: darkred;
+        color: rgb(51, 39, 83);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+
+ }
+
+
+     body{
+          
+        font-size: 10px;
+
+     }
+     body li{
+               
+               padding: 10px;
+               
+
+
+
+
+     }  
+
+     body li a{
+                 text-decoration: black;
+                 color: black;
+                 
+                 width: 40;
+
+
+     }
+
+
+
+
+     img{
+
+          width: 10%;
+          height: 5%;
+          
+          
+
+     }   
+
+     html{
+           background-attachment: fixed;
+
+
+     }
+      
+     #menu-h li{
+                 display: inline;
+
+
+     }
+
+     #menu-h li a{
+                 
+          color: black;
+          text-emphasis: none;
+          display: inline-block;
+          padding: 20px;
+          
+          
+
+
+
+
+
+     }
+     
+     #menu-h{
+              list-style: none;
+              padding: 0;
+              background-color: mediumseagreen;
+
+
+
+
+     }
+          
+
+
+
+
+       
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
